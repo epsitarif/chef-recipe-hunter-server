@@ -1,0 +1,86 @@
+[
+    {
+      "picture": "https://imgur.com/1.jpg",
+      "name": "Gordon Ramsay",
+      "years_of_experience": 30,
+      "number_of_recipes": 500,
+      "likes": 1000000
+    },
+    {
+      "picture": "https://imgur.com/2.jpg",
+      "name": "Anthony Bourdain",
+      "years_of_experience": 25,
+      "number_of_recipes": 300,
+      "likes": 800000
+    },
+    {
+      "picture": "https://imgur.com/3.jpg",
+      "name": "Bobby Flay",
+      "years_of_experience": 35,
+      "number_of_recipes": 400,
+      "likes": 750000
+    },
+    {
+      "picture": "https://imgur.com/4.jpg",
+      "name": "Emeril Lagasse",
+      "years_of_experience": 40,
+      "number_of_recipes": 350,
+      "likes": 700000
+    },
+    {
+      "picture": "https://imgur.com/5.jpg",
+      "name": "Wolfgang Puck",
+      "years_of_experience": 45,
+      "number_of_recipes": 250,
+      "likes": 600000
+    },
+    {
+      "picture": "https://imgur.com/6.jpg",
+      "name": "Julia Child",
+      "years_of_experience": 50,
+      "number_of_recipes": 200,
+      "likes": 550000
+    },
+    {
+      "picture": "https://imgur.com/7.jpg",
+      "name": "Ina Garten",
+      "years_of_experience": 30,
+      "number_of_recipes": 300,
+      "likes": 500000
+    },
+    {
+      "picture": "https://imgur.com/8.jpg",
+      "name": "Mario Batali",
+      "years_of_experience": 35,
+      "number_of_recipes": 250,
+      "likes": 450000
+    },
+    {
+      "picture": "https://imgur.com/9.jpg",
+      "name": "Thomas Keller",
+      "years_of_experience": 40,
+      "number_of_recipes": 200,
+      "likes": 400000
+    },
+    {
+      "picture": "https://imgur.com/10.jpg",
+      "name": "Daniel Boulud",
+      "years_of_experience": 30,
+      "number_of_recipes": 250,
+      "likes": 350000
+    },
+    {
+      "picture": "https://imgur.com/11.jpg",
+      "name": "Jacques Pepin",
+      "years_of_experience": 50,
+      "number_of_recipes": 150,
+      "likes": 300000
+    },
+    {
+      "picture": "https://imgur.com/12.jpg",
+      "name": "Tom Colicchio",
+      "years_of_experience": 25,
+      "number_of_recipes": 200,
+      "likes": 250000
+    }
+]
