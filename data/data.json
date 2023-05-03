@@ -1,86 +1,62 @@
-[
+
     {
-      "picture": "https://imgur.com/1.jpg",
+        "chef": [
+    {
+        "_id": "1",
+      "picture": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F09%2Fgordon-ramsay-hells-kitchen-02-2000.jpg&q=60",
       "name": "Gordon Ramsay",
       "years_of_experience": 30,
       "number_of_recipes": 500,
-      "likes": 1000000
+      "likes": 1000000,
+      "bio": "Gordon James Ramsay OBE  (born 8 November 1966) is a British celebrity chef, restaurateur, television personality and writer."
+      
     },
     {
-      "picture": "https://imgur.com/2.jpg",
+        "_id": "2",
+      "picture": "https://www.ciachef.edu/uploadedImages/Content/Profiles/Alumni/profile_bourdain.jpg",
       "name": "Anthony Bourdain",
       "years_of_experience": 25,
       "number_of_recipes": 300,
-      "likes": 800000
+      "likes": 800000,
+      "bio": "Anthony Michael Bourdain (born June 25, 1956 – June 8, 2018) was an American celebrity chef, author, and travel documentarian[1][2][3] who starred in programs focusing on the exploration of international culture, cuisine, and the human condition"
     },
     {
-      "picture": "https://imgur.com/3.jpg",
+        "_id": "3",
+      "picture": "https://i0.wp.com/thechefsconnection.com/wp-content/uploads/2014/06/bobby-flay_profile_2017.jpg?fit=1024%2C768&amp;ssl=1",
       "name": "Bobby Flay",
       "years_of_experience": 35,
       "number_of_recipes": 400,
-      "likes": 750000
+      "likes": 750000,
+      "bio": "Robert William Flay (born December 10, 1964), is an American celebrity chef, restaurateur, and reality television personality."
     },
     {
-      "picture": "https://imgur.com/4.jpg",
+        "_id": "4",
+      "picture": "https://az686452.vo.msecnd.net/cmr/t17118/opt/701586e0734c4173842ab5d86ce43fc0_2.jpg",
       "name": "Emeril Lagasse",
       "years_of_experience": 40,
       "number_of_recipes": 350,
-      "likes": 700000
+      "likes": 700000,
+      "bio": "Emeril John Lagassé ( born October 15, 1959)[1] is an American celebrity chef, restaurateur, television personality, cookbook author, and National Best Recipe award winner for his recipe in 2003."
     },
     {
-      "picture": "https://imgur.com/5.jpg",
+        "_id": "5",
+      "picture": "https://www.minnpost.com/wp-content/uploads/sites/default/files/asset/5/5h2f2o/5h2f2o.jpg",
       "name": "Wolfgang Puck",
       "years_of_experience": 45,
       "number_of_recipes": 250,
-      "likes": 600000
+      "likes": 600000,
+      "bio": "Wolfgang Johannes Puck (born July 8, 1949) is an Austrian-American chef and restaurateur."
     },
     {
-      "picture": "https://imgur.com/6.jpg",
+        "_id": "6",
+      "picture": "https://news.harvard.edu/wp-content/uploads/2022/04/20220406_child_2500x-1200x800.jpg",
       "name": "Julia Child",
       "years_of_experience": 50,
       "number_of_recipes": 200,
-      "likes": 550000
-    },
-    {
-      "picture": "https://imgur.com/7.jpg",
-      "name": "Ina Garten",
-      "years_of_experience": 30,
-      "number_of_recipes": 300,
-      "likes": 500000
-    },
-    {
-      "picture": "https://imgur.com/8.jpg",
-      "name": "Mario Batali",
-      "years_of_experience": 35,
-      "number_of_recipes": 250,
-      "likes": 450000
-    },
-    {
-      "picture": "https://imgur.com/9.jpg",
-      "name": "Thomas Keller",
-      "years_of_experience": 40,
-      "number_of_recipes": 200,
-      "likes": 400000
-    },
-    {
-      "picture": "https://imgur.com/10.jpg",
-      "name": "Daniel Boulud",
-      "years_of_experience": 30,
-      "number_of_recipes": 250,
-      "likes": 350000
-    },
-    {
-      "picture": "https://imgur.com/11.jpg",
-      "name": "Jacques Pepin",
-      "years_of_experience": 50,
-      "number_of_recipes": 150,
-      "likes": 300000
-    },
-    {
-      "picture": "https://imgur.com/12.jpg",
-      "name": "Tom Colicchio",
-      "years_of_experience": 25,
-      "number_of_recipes": 200,
-      "likes": 250000
+      "likes": 550000,
+      "bio": "Julia Child, née Julia Carolyn McWilliams, (born August 15, 1912, Pasadena, California, U.S.—died August 13, 2004, Santa Barbara), American cooking expert."
     }
 ]
+}
+
+

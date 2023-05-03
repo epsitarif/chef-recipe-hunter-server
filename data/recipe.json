@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://lindysez.com/wp-content/uploads/2013/04/tea-smoked-duck-breasts-e1510356932630.jpg",
+        "chef_id": 1,
+        "name": "Gordon Ramsay",
+        "ingredients": "duck breast, black tea leaves, brown sugar, star anise, cinnamon",
+        
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour.............................................................................................................",
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "recipe_name": "Tea-Smoked Chicken",
+        "image_url": "https://www.hwcmagazine.com/wp-content/uploads/2022/06/tea-smoked-chicken-legs-on-grill-7340-500x500.jpg",
+        "chef_id": 1,
+        "name": "Gordon Ramsay",
+        "ingredients": "chicken breast, green tea leaves, honey, garlic, ginger",
+        
+        "cooking_method": "To make Tea-Smoked Chicken, first marinate the chicken breast with honey, garlic, and ginger for at least two hours.............................................................................................................",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "recipe_name": "Tea-Smoked Tofu",
+        "image_url": "https://i0.wp.com/real-plant-food.com/wp-content/uploads/2021/02/smoked-tofu.jpg?fit=600%2C401&ssl=1",
+        "chef_id": 1,
+        "name": "Gordon Ramsay",
+        "ingredients": "firm tofu, oolong tea leaves, soy sauce, brown sugar, sesame oil",
+        
+        "cooking_method": "To make Tea-Smoked Tofu, first press the tofu to remove excess water.............................................................................................................",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "recipe_name": "Shrimp Scampi",
+        "image_url": "https://www.onionringsandthings.com/wp-content/uploads/2014/03/garlic-butter-shrimp-pasta-1-1.jpg",
+        "chef_id": 2,
+        "name": "Anthony Bourdain",
+        "ingredients": "shrimp, garlic, lemon juice, white wine, butter, parsley",
+        
+        "cooking_method": "To make Shrimp Scampi, first clean and devein the shrimp.............................................................................................................",
+        "rating": 4.9
+    },
+    {
+        "id": 5,
+        "recipe_name": "Beef Stir-Fry",
+        "image_url": "https://www.allrecipes.com/thmb/7N-Xq1XMMJw8G0KJv2e0ETUYB2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823-quick-beef-stir-fry-DDMFS-4x3-1f79b031d3134f02ac27d79e967dfef5.jpg",
+        "chef_id": 2,
+        "name": "Anthony Bourdain",
+        "ingredients": "beef sirloin, broccoli, onion, garlic, ginger, soy sauce",
+        
+        "cooking_method": "To make Beef Stir-Fry, first slice the beef sirloin against the grain.............................................................................................................",
+        "rating": 4.6
+    },
+    {
+        "id": 6,
+        "recipe_name": "Lemon Garlic Shrimp Pasta",
+        "image_url": "https://butteryourbiscuit.com/wp-content/uploads/2016/05/creamy-lemon-garlic-shrimp-pasta-2-720x540.jpg",
+        "chef_id": 2,
+        "name": "Anthony Bourdain",
+        "ingredients": "shrimp, linguine pasta, lemon, garlic, parsley, parmesan cheese",
+        
+        "cooking_method": "To make Lemon Garlic Shrimp Pasta, first cook the linguine pasta according to package instructions.............................................................................................................",
+        "rating": 4.7
+    },
+    {
+        "id": 7,
+        "recipe_name": "Beef Stroganoff",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/12/20/0/FNK_Beef-Stragonoff_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1576855502748.jpeg",
+        "chef_id": 3,
+        "name": "Bobby Flay",
+        "ingredients": "beef tenderloin, mushrooms, onion, garlic, beef broth, sour cream",
+        
+        "cooking_method": "To make Beef Stroganoff, first cut the beef tenderloin into thin strips and season with salt and pepper.............................................................................................................",
+        "rating": 4.9
+    },
+    {
+        "id": 8,
+        "recipe_name": "Grilled Salmon",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRd-ZLMY1LkBt_2qPDFjw5duMm6NFTEor2Bs0Jf2LXZ2dINfRmWWfK2gfyUVcCvgNc8U&usqp=CAU",
+        "chef_id": 3,
+        "name": "Bobby Flay",
+        "ingredients": "salmon fillets, olive oil, garlic, lemon, salt, black pepper",
+        
+        "cooking_method": "To make Grilled Salmon, first prepare a marinade with olive oil, minced garlic, lemon juice, salt, and black pepper.............................................................................................................",
+        "rating": 4.9
+    },
+    {
+        "id": 9,
+        "recipe_name": "Pesto Pasta",
+        "image_url": "https://img.taste.com.au/yi5JzgGT/taste/2010/01/creamy-chicken-pesto-pasta-118914-1.jpg",
+        "chef_id": 3,
+        "name": "Bobby Flay",
+        "ingredients": "pasta, basil leaves, pine nuts, garlic, parmesan cheese, olive oil",
+        
+        "cooking_method": "To make Pesto Pasta, first cook the pasta in salted boiling water.............................................................................................................",
+        "rating": 4.6
+    },
+    {
+        "id": 10,
+        "recipe_name": "Garlic Shrimp Pasta",
+        "image_url": "https://www.onionringsandthings.com/wp-content/uploads/2014/03/garlic-butter-shrimp-pasta-1-1.jpg",
+        "chef_id": 4,
+        "name": "Emeril Lagasse",
+        "ingredients": "spaghetti, shrimp, garlic, olive oil, cherry tomatoes, parsley",
+        
+        "cooking_method": "To make Garlic Shrimp Pasta, first cook the spaghetti according to package instructions and set aside.............................................................................................................",
+        "rating": 4.6
+    },
+    {
+        "id": 11,
+        "recipe_name": "Lemon Herb Roasted Chicken",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFKhL-tF3i1CYwKEjHluNcI9G493_4KTITw&usqp=CAU",
+        "chef_id": 4,
+        "name": "Emeril Lagasse",
+        "ingredients": "whole chicken, lemon, rosemary, thyme, garlic, butter",
+        
+        "cooking_method": "To make Lemon Herb Roasted Chicken, first preheat the oven to 425 degrees Fahrenheit.............................................................................................................",
+        "rating": 4.9
+    },
+    {
+        "id": 12,
+        "recipe_name": "Roasted Brussels Sprouts",
+        "image_url": "https://www.budgetbytes.com/wp-content/uploads/2020/10/Roasted-Brussels-Sprouts-side.jpg",
+        "chef_id": 4,
+        "name": "Emeril Lagasse",
+        "ingredients": "brussels sprouts, olive oil, garlic, salt, black pepper",
+        
+        "cooking_method": "To make Roasted Brussels Sprouts, preheat the oven to 425 degrees F (220 degrees C).............................................................................................................",
+        "rating": 4.9
+    },
+    {
+        "id": 13,
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRd-ZLMY1LkBt_2qPDFjw5duMm6NFTEor2Bs0Jf2LXZ2dINfRmWWfK2gfyUVcCvgNc8U&usqp=CAU",
+        "chef_id": 5,
+        "name": "Wolfgang Puck",
+        "ingredients": "salmon fillets, lemon, butter, garlic, parsley",
+        
+        "cooking_method": "To make Grilled Salmon with Lemon Butter Sauce, first prepare the lemon butter sauce by melting butter in a small saucepan over low heat.............................................................................................................",
+        "rating": 4.7
+    },
+    {
+        "id": 14,
+        "recipe_name": "Spicy Shrimp Stir-Fry",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM6dORboiYJJL85NLXtxKRlhzQgluvBtfFYQ&usqp=CAU",
+        "chef_id": 5,
+        "name": "Wolfgang Puck",
+        "ingredients": "shrimp, red bell pepper, green bell pepper, onion, garlic, chili paste",
+        
+        "cooking_method": "To make Spicy Shrimp Stir-Fry, first sauté the onion and garlic until fragrant.............................................................................................................",
+        "rating": 4.6
+    },
+    {
+        "id": 15,
+        "recipe_name": "Vegetable Curry",
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/slow-cooker-vegetable-curry-2b72ddd.jpg?resize=960,872",
+        "chef_id": 5,
+        "name": "Wolfgang Puck",
+        "ingredients": "potatoes, carrots, green beans, tomato, onion, curry powder",
+        
+        "cooking_method": "To make Vegetable Curry, first sauté the onion until soft.............................................................................................................",
+        "rating": 4.3
+    },
+    {
+        "id": 16,
+        "recipe_name": "Spicy Garlic Shrimp",
+        "image_url": "https://cdn.shopify.com/s/files/1/0281/2949/3063/products/FAVE-SpicyGarlicShrimp.jpg?v=1597318220",
+        "chef_id": 6,
+        "name": "Julia Child",
+        "ingredients": "large shrimp, garlic, red pepper flakes, olive oil, lemon juice",
+        
+        "cooking_method": "To make Spicy Garlic Shrimp, first sauté the garlic and red pepper flakes in olive oil until fragrant.............................................................................................................",
+        "rating": 4.7
+    },
+    {
+        "id": 17,
+        "recipe_name": "Mushroom Risotto",
+        "image_url": "https://www.allrecipes.com/thmb/7N-Xq1XMMJw8G0KJv2e0ETUYB2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823-quick-beef-stir-fry-DDMFS-4x3-1f79b031d3134f02ac27d79e967dfef5.jpg",
+        "chef_id": 6,
+        "name": "Julia Child",
+        "ingredients": "arborio rice, mushrooms, vegetable broth, white wine, parmesan cheese",
+        
+        "cooking_method": "To make Mushroom Risotto, first sauté the mushrooms until they release their moisture and become browned.............................................................................................................",
+        "rating": 4.9
+    },
+    {
+        "id": 18,
+        "recipe_name": "Mushroom Risotto",
+        "image_url": "https://www.allrecipes.com/thmb/7N-Xq1XMMJw8G0KJv2e0ETUYB2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823-quick-beef-stir-fry-DDMFS-4x3-1f79b031d3134f02ac27d79e967dfef5.jpg",
+        "chef_id": 6,
+        "name": "Julia Child",
+        "ingredients": "arborio rice, mushrooms, chicken broth, parmesan cheese, white wine",
+        
+        "cooking_method": "To make Mushroom Risotto, first sauté the mushrooms in butter until they release their liquid and turn golden brown.............................................................................................................",
+        "rating": 4.6
+    }
+    
+]
